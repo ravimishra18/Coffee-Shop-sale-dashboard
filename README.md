@@ -4,7 +4,9 @@ This dashboard provides an analytical view of coffee shop sales, footfall, and p
 
 📊 Dashboard Breakdown
 Total Sales: $698,812.33
+
 Total Footfall: 149,116
+
 Average Bill per Person: $4.69
 Average Orders per Person: 1.44
 📅 Sales & Footfall Trends
