@@ -44,8 +44,8 @@ This dashboard provides an analytical view of coffee shop sales, footfall, and p
 ## 📂 Repository Contents  
 
 - **Dashboard File** (`Coffee_Shop_Sales_Dashboard.xlsx`) – The main Excel dashboard.  
-- **Dataset** (`coffee_sales_data.xlsx`) *( raw data for reference).*  
-- **Dashboard Image** (`dashboard.png`) – Screenshot of the dashboard for quick preview.  
+- **Dataset** (`coffee shop sales.xlsx`) *( raw data for reference).*  
+- **Dashboard Image** (`Screenshot 2025-03-01 000027.png`) – Screenshot of the dashboard for quick preview.  
 - **README.md** – Documentation with explanations and insights.  
 
 ---
